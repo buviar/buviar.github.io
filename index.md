@@ -50,7 +50,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {%
   include feature.html
-  image="images/pexels-lil-artsy-1194775-cropped-square.jpg"
+  image="images/vive-pro.jpg"
   link="research"
   title="Our Research"
   text=text
@@ -94,7 +94,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/buviar-team-cropped-square.jpeg"
+  image="images/vive-pro.jpg"
   link="team"
   title="Our Team"
   text=text
