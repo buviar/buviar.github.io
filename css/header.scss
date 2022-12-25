@@ -14,7 +14,7 @@ header {
   padding: 30px;
   color: $white;
   background: $gray-800;
-  box-shadow: $shadow;
+  box-shadow: none;
 
   & * {
     font-family: $sans;
