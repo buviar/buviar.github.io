@@ -33,7 +33,7 @@ We are located on the first floor of the [KPARK building at the Northern Campus 
   icon=""
   text="Google Maps"
   tooltip="Our location on Google Maps for easy navigation"
-  link="[https://www.google.com/maps/place/That+St+%26+The+Other+St,+Porters+Lake,+NS+B3E+1H3,+Canada/@44.7389237,-63.3033296,20.78z/data=!4m5!3m4!1s0x4b5a31023bb02565:0xb9505694e83a53d7!8m2!3d44.7389353!4d-63.3030828](https://www.google.com/maps/place/41%C2%B005'16.2%22N+29%C2%B002'37.2%22E/@41.0878864,29.0437189,20.75z/data=!4m6!3m5!1s0x14cab5ffd732c279:0xaf0c3a90e7f55bec!7e2!8m2!3d41.0878365!4d29.0436523)"
+  link="https://www.google.com/maps/place/41%C2%B005'16.2%22N+29%C2%B002'37.2%22E/@41.0878864,29.0437189,20.75z/data=!4m6!3m5!1s0x14cab5ffd732c279:0xaf0c3a90e7f55bec!7e2!8m2!3d41.0878365!4d29.0436523"
   style="button"
 %}
 {:.center}
