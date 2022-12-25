@@ -13,7 +13,7 @@ header {
   gap: 20px;
   padding: 30px;
   color: $white;
-  background: none;
+  background: $gray-800;
   box-shadow: $shadow;
 
   & * {
