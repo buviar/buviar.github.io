@@ -2,10 +2,11 @@
 title: Home
 ---
 
-# Your Lab Slogan
+# Welcome to Bogazici University Virtual Reality Laboratory
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel, and more time running your lab.
+BUVIAR is a research laboratory founded with the “Multidisciplinary Project Support” funding scheme provided by the Scientific Research Projects Coordination Unit (BAP) of Boğaziçi University. It was founded within a joint project by three researchers: Dr. Engin Ader from the Dept. of Mathematics and Science Education (PI), Dr. İnci Ayhan from the Dept. of Psychology, and Dr. Emre Uğur from the Dept. of Computer Engineering.
+
+Together with graduate and undergraduate students from different fields, ongoing research at BUViaR Lab investigates self-regulated learning and body perception by using multimodal data from the Immersive Virtual Reality environment.
 
 {%
   include link.html
