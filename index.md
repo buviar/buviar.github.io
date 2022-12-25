@@ -28,7 +28,7 @@ Together with graduate and undergraduate students from different fields, ongoing
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/banner.jpg" %}
+{% include banner.html image="images/pexels-sound-on-3761260.jpg" %}
 
 {% include section.html %}
 
