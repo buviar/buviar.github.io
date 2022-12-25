@@ -6,7 +6,7 @@ description: Bogazici University Virtual Reality Laboratory
 logo: images/Logo_Versiyon_0.png
 header: images/pexels-scott-webb-1029622.jpg
 footer: images/pexels-scott-webb-1029622.jpg
-baseurl: ""
+baseurl: /buviar-test
 
 # site social media and other links
 links:
