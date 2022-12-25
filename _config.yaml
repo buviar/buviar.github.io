@@ -6,7 +6,7 @@ description: An easy-to-use, flexible website template for labs, with automatic 
 logo: images/Logo_Versiyon_0.png
 header: images/background.jpg
 footer: images/background.jpg
-baseurl: /lab_test_website
+baseurl: ""
 
 # site social media and other links
 links:
