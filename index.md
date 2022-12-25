@@ -12,7 +12,7 @@ Together with graduate and undergraduate students from different fields, ongoing
   include link.html
   type="github"
   icon=""
-  text="See the template on GitHub"
+  text="See the website template on GitHub"
   link="greenelab/lab-website-template"
   style="button"
 %}
