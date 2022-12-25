@@ -13,8 +13,8 @@ header {
   gap: 20px;
   padding: 30px;
   color: $white;
-  background: $white;
-  box-shadow: none;
+  background: $gray-800;
+  box-shadow: $shadow;
 
   & * {
     font-family: $sans;
