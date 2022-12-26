@@ -5,7 +5,7 @@ description: PI - Associate Professor
 role: pi
 aliases:
   - E Ugur
-  - E. Ader
+  - E. Ugur
   - Ugur
 links:
   email: emre.ugur@boun.edu.tr
