@@ -13,4 +13,6 @@ links:
   google-scholar: B1Dy3WMAAAAJ
 ---
 
-Emre Ugur is an Associate Professor at the Bogazici University Department of Computer Engineering where she acts as the director of the Cognitive Learning and Robotics Laboratory.
+Emre Ugur is an Associate Professor at the Bogazici University Department of Computer Engineering where hhe acts as the director of the Cognitive Learning and Robotics (CoLoRs) Laboratory. \
+[Personal Website](https://www.cmpe.boun.edu.tr/~emre/) \
+[CoLoRs Laboratory](https://colors.cmpe.boun.edu.tr/)
