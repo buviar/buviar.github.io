@@ -1,6 +1,6 @@
 ---
 name: İnci Ayhan
-image: images/ayhan.jpg
+image: images/ayhan.jpeg
 description: Associate Professor, Psychology
 role: pi
 aliases:
