@@ -5,7 +5,7 @@ description: Associate Professor, Psychology
 role: pi
 aliases:
   - I Ayhan
-  - I. Ader
+  - I. Ayhan
   - Ayhan
 links:
   email: inci.ayhan@boun.edu.tr
