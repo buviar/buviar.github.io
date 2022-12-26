@@ -10,7 +10,7 @@ aliases:
 links:
   email: inci.ayhan@boun.edu.tr
   twitter: nciayhan3
-  Vision Lab website: 
+  google-scholar: N3lSPC0AAAAJ
 ---
 
 Inci Ayhan is an Associate Professor at the Bogazici University Department of Psychology where she acts as the director of the Vision Laboratory.
