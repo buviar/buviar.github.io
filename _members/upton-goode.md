@@ -1,18 +1,15 @@
 ---
-name: Upton O. Goode
-image: images/member.jpg
-description: Bone Investigator
+name: Engin Ader
+image: images/ader.jpg
+description: Principal Investigator
 role: pi
 aliases:
-  - U. Goode
-  - U. O. Goode
-  - U Goode
+  - E Ader
+  - E. Ader
+  - Ader
 links:
-  orcid: 0000-0001-8713-9213
-  email: upton@ogoode.com
-  twitter: uptonogoode
+  email: ader@boun.edu.tr
+  twitter: enginader
 ---
 
-Upton is a good dog.
-He studied at the University of Good Dogs.
-He likes pets, walkies, and treats.
+Engin ader is an Associate Professor at the Bogazici University Department of Mathematics and Science Education.
