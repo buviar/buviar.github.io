@@ -1,6 +1,6 @@
 ---
 name: İpek Paksoy
-image: images/member.jpg
+image: images/ipek-paksoy.jpg
 description: Treat Researcher
 role: graduate
 aliases:
