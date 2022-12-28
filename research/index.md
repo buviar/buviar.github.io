@@ -7,10 +7,9 @@ nav:
 
 # <i class="fas fa-microscope"></i>Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+BUVIAR is a research laboratory founded with the “Multidisciplinary Project Support” funding scheme provided by the Scientific Research Projects Coordination Unit (BAP) of Boğaziçi University. It was founded within a joint project by three researchers: Dr. Engin Ader from the Dept. of Mathematics and Science Education (PI), Dr. İnci Ayhan from the Dept. of Psychology, and Dr. Emre Uğur from the Dept. of Computer Engineering.
+
+
 
 {% include section.html %}
 
