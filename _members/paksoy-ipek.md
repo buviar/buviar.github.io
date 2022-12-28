@@ -4,8 +4,8 @@ image: images/ipek-paksoy.png
 description: Research Asistant
 role: graduate
 aliases:
-  - F. Cited
-  - F Cited
+  - I. Paksoy
+  - I Paksoy
 links:
   email: ipekpaksoyy@gmail.com
   twitter: ipek_paksoy
