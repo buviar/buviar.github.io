@@ -1,13 +1,12 @@
 ---
 name: İpek Paksoy
-image: images/ipek-paksoy.jpg
-description: Treat Researcher
+image: images/ipek-paksoy.png
+description: Research Asistant
 role: graduate
 aliases:
   - F. Cited
   - F Cited
 links:
-  home-page: felixcited.com
   email: ipekpaksoyy@gmail.com
   twitter: ipek_paksoy
 ---
