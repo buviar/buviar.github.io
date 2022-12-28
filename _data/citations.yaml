@@ -2,6 +2,15 @@
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
 - id: doi:10.1007/s10055-021-00511-8
+  title: Trick the body trick the mind: avatar representation affects the perception of available action possibilities in virtual reality
+  authors:
+  - Tugce Joy
+  - Emre Ugur
+  - Inci Ayhan
+  publisher: Virtual Reality
+  date: '2021-03-27'
+  link: https://link.springer.com/article/10.1007/s10055-021-00511-8
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs10055-021-00511-8/MediaObjects/10055_2021_511_Fig2_HTML.png?as=webp
   
 - id: doi:10.1371/journal.pcbi.1007128
   title: Open collaborative writing with Manubot
