@@ -3,7 +3,6 @@ name: İpek Paksoy
 image: images/member.jpg
 description: Treat Researcher
 role: graduate
-group: alum
 aliases:
   - F. Cited
   - F Cited
