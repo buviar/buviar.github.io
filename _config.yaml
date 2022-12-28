@@ -9,7 +9,7 @@ header: images/pexels-scott-webb-1029622.jpg
 header-dark: false
 footer-dark: false
 footer: images/pexels-scott-webb-1029622.jpg
-baseurl: /buviar-test
+baseurl: ""
 
 # site social media and other links
 links:
