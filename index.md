@@ -8,22 +8,7 @@ BUVIAR is a research laboratory founded with the “Multidisciplinary Project Su
 
 Together with graduate and undergraduate students from different fields, ongoing research at BUViaR Lab investigates self-regulated learning and body perception by using multimodal data from the Immersive Virtual Reality environment.
 
-{%
-  include link.html
-  type="github"
-  icon=""
-  text="See the website template on GitHub"
-  link="greenelab/lab-website-template"
-  style="button"
-%}
-{%
-  include link.html
-  type="docs"
-  icon=""
-  text="See the documentation"
-  link="https://github.com/greenelab/lab-website-template/wiki"
-  style="button"
-%}
+
 {:.center}
 
 {% include section.html full=true %}
