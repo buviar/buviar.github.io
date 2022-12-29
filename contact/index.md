@@ -20,15 +20,6 @@ We are located on the first floor of the [KPARK building at the Northern Campus 
 %}
 {%
   include link.html
-  type="phone"
-  icon=""
-  text="(555) 867-5309"
-  tooltip=""
-  link="+1-555-867-5309"
-  style="button"
-%}
-{%
-  include link.html
   type="address"
   icon=""
   text="Google Maps"
