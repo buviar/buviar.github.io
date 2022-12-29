@@ -43,19 +43,4 @@ If you are interested to join us, send your CV and cover letter to buviar@boun.e
 
 {% include section.html %}
 
-
-## Funding
-
-Our work is made possible by funding from several organizations.
-{:.center}
-
-{%
-  include gallery.html
-  style="square"
-
-  image1="images/photo.jpg"
-  link1="https://nasa.gov/"
-  tooltip1="Cool Foundation"
-
- 
 %}
