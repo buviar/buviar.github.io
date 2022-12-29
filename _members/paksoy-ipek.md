@@ -11,6 +11,4 @@ links:
   twitter: ipek_paksoy
 ---
 
-İpek is a good student.
-She studied at the Bogazici University
-She likes pets, walkies, and VR.
+İpek is  M.A. student at Boğaziçi Univesity, Educational Technology Program. 
