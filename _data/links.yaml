@@ -66,7 +66,7 @@ twitter:
   icon: fab fa-twitter
   text: Twitter
   tooltip: Twitter
-  link: https://twitter.com/$LINK
+  link: https://twitter.com/buviar
 
 facebook:
   icon: fab fa-facebook
