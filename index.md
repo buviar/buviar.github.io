@@ -25,7 +25,7 @@ Three studies were conducted in our lab in last year. These includes: The effect
 {%
   include link.html
   link="research"
-  text="See what we've published"
+  text="See our projects"
   icon="fas fa-arrow-right"
   flip=true
 %}
@@ -34,7 +34,7 @@ Three studies were conducted in our lab in last year. These includes: The effect
 
 {%
   include feature.html
-  image="images/pexels-lil-artsy-1194775-cropped-square.jpg"
+  image="images/buviar_projects.png"
   link="research"
   title="Our Research"
   text=text
