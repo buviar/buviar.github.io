@@ -12,26 +12,3 @@
   link: https://link.springer.com/article/10.1007/s10055-021-00511-8
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs10055-021-00511-8/MediaObjects/10055_2021_511_Fig2_HTML.png?as=webp
   
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2019-06-24'
-  link: https://doi.org/c7np
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  repo: greenelab/meta-review
-  extra-links:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  _cache: 189b56e366896b6a90ae8d64fc4e605797d2bdd07674653d81ae533b2f1e4672
