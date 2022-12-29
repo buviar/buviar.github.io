@@ -12,7 +12,7 @@ The lab has  several headsets, a workstation, VR-capable laptop.  Also there are
 
 {% include section.html %}
 
-## Featured
+## Equipments
 
 {% include list.html component="card" data="tools" filters="group: featured" %}
 
