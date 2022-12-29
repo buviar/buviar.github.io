@@ -20,8 +20,7 @@ Together with graduate and undergraduate students from different fields, ongoing
 # Highlights
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Three studies were conducted in our lab in last yeat. These includes: The effect of distorted avatar capabilities on perceived affordances, Body schema during tool-use via VR technologies and Studying preservice teachers’ SRL via VR technologies .
 
 {%
   include link.html
@@ -42,7 +41,8 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 %}
 
 {% capture text %}
-Three studies were conducted in our lab in last yeat. These includes: The effect of distorted avatar capabilities on perceived affordances, Body schema during tool-use via VR technologies and Studying preservice teachers’ SRL via VR technologies .
+The lab has several headsets, a workstation, VR-capable laptop. Also there are motion controllers, body trackers, wireless skin conductivity sensors.
+
 
 {%
   include link.html
@@ -64,8 +64,7 @@ Three studies were conducted in our lab in last yeat. These includes: The effect
 %}
 
 {% capture text %}
-The lab has several headsets, a workstation, VR-capable laptop. Also there are motion controllers, body tracker, wireless skin conductivity sensor
-
+We have a collaborative research team from diverse backgrounds. The team includes students at all levels,
 
 
 {%
@@ -86,6 +85,5 @@ The lab has several headsets, a workstation, VR-capable laptop. Also there are m
   text=text
 %}
 
-We have a collaborative research team from diverse backgrounds. The team includes students at all levels,
 
 
