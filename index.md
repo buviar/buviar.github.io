@@ -37,6 +37,7 @@ Three studies were conducted in our lab in last year. These includes: The effect
   image="images/buviar_projects.png"
   link="research"
   title="Our Research"
+  flip=true
   text=text
 %}
 
