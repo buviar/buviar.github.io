@@ -1,6 +1,5 @@
 ---
-title: Example post 3
-tags: biology, medicine
+title: BUVIAR Logo Design
 author: Upton O. Goode
 member: upton-goode
 ---
