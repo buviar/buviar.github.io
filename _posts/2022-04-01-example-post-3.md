@@ -1,6 +1,6 @@
 ---
 title: BUVIAR Logo Design
-author: Upton O. Goode
+author: İpek Paksoy
 member: upton-goode
 ---
 
