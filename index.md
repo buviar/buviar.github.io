@@ -42,8 +42,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 %}
 
 {% capture text %}
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Three studies were conducted in our lab in last yeat. These includes: The effect of distorted avatar capabilities on perceived affordances, Body schema during tool-use via VR technologies and Studying preservice teachers’ SRL via VR technologies .
 
 {%
   include link.html
@@ -65,7 +64,9 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 %}
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+The lab has several headsets, a workstation, VR-capable laptop. Also there are motion controllers, body tracker, wireless skin conductivity sensor
+
+
 
 {%
   include link.html
@@ -85,5 +86,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   text=text
 %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We have a collaborative research team from diverse backgrounds. The team includes students at all levels,
+
+
