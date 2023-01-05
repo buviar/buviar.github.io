@@ -24,11 +24,11 @@ jobs:
     
     - name: Simple FTP deploy
       uses: kevinpainchaud/simple-ftp-deploy-action@v1.2.1
-        with:
-          ftp_host: ${{ secrets.ftp_host }}
-          ftp_username: ${{ secrets.ftp_user }}
-          ftp_password: ${{ secrets.ftp_password }}
-          local_source_dir: "_site"
-          dist_target_dir: "public_html"
-          delete: "true"
-          only_newer: "true"
+      with:
+        ftp_host: ${{ secrets.ftp_host }}
+        ftp_username: ${{ secrets.ftp_user }}
+        ftp_password: ${{ secrets.ftp_password }}
+        local_source_dir: "_site"
+        dist_target_dir: "public_html"
+        delete: "true"
+        only_newer: "true"
