@@ -30,7 +30,7 @@ jobs:
           ftp_host: ${{ secrets.ftp_host }}
           ftp_username: ${{ secrets.ftp_user }}
           ftp_password: ${{ secrets.ftp_password }}
-          local_source_dir: "_site"
+          local_source_dir: "/github/jekyll_build"
           dist_target_dir: "public_html/"
           delete: true
           only_newer: true
