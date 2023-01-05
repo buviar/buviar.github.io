@@ -30,5 +30,4 @@ jobs:
         ftp_password: ${{ secrets.ftp_password }}
         local_source_dir: "_site"
         dist_target_dir: "public_html"
-        delete: "true"
         only_newer: "true"
