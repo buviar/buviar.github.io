@@ -1,0 +1,36 @@
+name: Build and Deploy Jekyll Site
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    # Use GitHub Actions' cache to shorten build times and decrease load on servers
+    - uses: actions/cache@v2
+      with:
+        path: vendor/bundle
+        key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile') }}
+        restore-keys: |
+          ${{ runner.os }}-gems-
+
+    # build jekyll website
+    - name: Jekyll Actions
+      uses: helaili/jekyll-action@2.4.0
+      with:
+        build_only: true
+    # send the files via ftp
+    - name: Simple FTP deploy
+      uses: kevinpainchaud/simple-ftp-deploy-action@v1.2.1
+      with:
+          ftp_host: ${{ secrets.ftp_host }}
+          ftp_username: ${{ secrets.ftp_user }}
+          ftp_password: ${{ secrets.ftp_password }}
+          local_source_dir: "_site"
+          dist_target_dir: "public_html/"
+          delete: true
+          only_newer: true
