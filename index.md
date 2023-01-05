@@ -86,5 +86,3 @@ We have a collaborative research team from diverse backgrounds. The team include
 %}
 
 
-Thanks Alper Ahmetoglu for our website
-
