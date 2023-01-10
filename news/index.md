@@ -23,5 +23,5 @@ nav:
 {:.center}
 
 <a href="https://twitter.com/buviar" class="twitter-follow-button" data-show-count="false">Follow @GreeneScientist</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<a href=["https://twitter.com/intent/tweet?screen_name=GreeneScientist&ref_src=twsrc%5Etfw](https://twitter.com/buviar?ref_src=twsrc%5Etfw)" class="twitter-mention-button" data-show-count="false">Tweet to @buviar</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 {:.center}
