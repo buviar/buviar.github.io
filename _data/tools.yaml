@@ -18,28 +18,25 @@
   tags:
     - resource
 
-- title: Graphics Cards We Use
+- title: Graphics Cards
   group: more
   image: images/nvidia.jpg
   description: We are trying to use powerful graphics cards in our computers and also they are compatible with the Quest devices. We use Nvidia Quadro RTX 5000 for the desktop and Nvidia GeForce RTX for the laptop.
   repo: greenelab/lab-website-template
   tags:
-    - resource
-    - publication
+    - hardware
 
-- title: Cool Web App
+- title: Headsets
   group: more
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  image: images/htcvive.jpg
+  description: We are using both Standalone VR and PCVR headsets. Mostly, HTC Vive Pro Eye is used for experiments but when a research requires multiple subjects at the same time, we use Meta Quest 2 additionally.
   repo: greenelab/lab-website-template
   tags:
-    - software
+    - hardware
 
 - title: Cool Web Server
   group: more
   image: images/photo.jpg
-  link: https://github.com/
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
   tags:
