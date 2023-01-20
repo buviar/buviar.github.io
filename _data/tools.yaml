@@ -34,10 +34,10 @@
   tags:
     - hardware
 
-- title: Cool Web Server
+- title: Other tools
   group: more
-  image: images/photo.jpg
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  image: images/leapmotion.jpg
+  description: We are using Leap Motion Controller as an external hand tracking device for HTC Vive products. Besides, we have a couple of VIVE Trackers in order to collect the body movement data and record mixed reality videos.
   repo: greenelab/lab-website-template
   tags:
-    - software
+    - others
