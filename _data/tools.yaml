@@ -21,7 +21,6 @@
 - title: Graphics Cards We Use
   group: more
   image: images/nvidia.jpg
-  link: https://github.com/
   description: We are trying to use powerful graphics cards in our computers and also they are compatible with the Quest devices. We use Nvidia Quadro RTX 5000 for the desktop and Nvidia GeForce RTX for the laptop.
   repo: greenelab/lab-website-template
   tags:
