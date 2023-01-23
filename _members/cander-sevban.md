@@ -2,7 +2,7 @@
 name: Sait Sevban Cander
 image: images/sevban-cander.png
 description: Undergrad Research Asistant
-role: undergraduate
+role: undergrad
 aliases:
   - S. Cander
   - S Cander
