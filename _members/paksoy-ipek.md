@@ -11,4 +11,4 @@ links:
   twitter: ipek_paksoy
 ---
 
-İpek is  M.A. student at Boğaziçi Univesity, Educational Technology Program. 
+İpek is a  M.A. student at Boğaziçi Univesity, Educational Technology Program. She graduated from Science Education. She is the laboratory research assistant at Boğaziçi University Virtual Reality Laboratory. 
