@@ -1,7 +1,7 @@
 ---
 name: Igor Lirussi
 image: images/igor-lirussi.png
-description: Research Assistant
+description: Researcher
 role: graduate
 aliases:
   - I. Lirussi
