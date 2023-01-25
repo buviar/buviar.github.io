@@ -8,7 +8,7 @@ aliases:
   - I Paksoy
 links:
   email: ipekpaksoyy@gmail.com
-  twitter: ipek_paksoy
+  twitter: [ipek_paksoy](https://twitter.com/IpekPaksoy_)
   linkedin: (https://www.linkedin.com/in/ipekpaksoy/)
 ---
  
