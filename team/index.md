@@ -17,24 +17,28 @@ We have a collaborative research team from diverse backgrounds. The team include
   component="portrait"
   filters="role: pi"
 %}
+
 {%
   include list.html
   data="members"
   component="portrait"
   filters="role: graduate"
 %}
+
 {%
   include list.html
   data="members"
   component="portrait"
   filters="role: programmer"
 %}
+
 {%
   include list.html
   data="members"
   component="portrait"
   filters="role: undergrad"
 %}
+
 {:.center}
 
 {% include section.html background="images/banner.jpg" dark=true%}
