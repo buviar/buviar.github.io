@@ -17,6 +17,14 @@ We have a collaborative research team from diverse backgrounds. The team include
   component="portrait"
   filters="role: pi"
 %}
+</br>
+
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: postdoc"
+%}
 
 {%
   include list.html
@@ -38,6 +46,14 @@ We have a collaborative research team from diverse backgrounds. The team include
   component="portrait"
   filters="role: undergrad"
 %}
+
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: mascot"
+%}
+
 
 {:.center}
 
