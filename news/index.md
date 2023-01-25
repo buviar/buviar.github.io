@@ -22,6 +22,6 @@ nav:
 <a class="twitter-timeline" data-width="400" data-height="400" href="https://twitter.com/buviar?ref_src=twsrc%5Etfw">Tweets by buviar</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 {:.center}
 
-<a href="https://twitter.com/buviar" class="twitter-follow-button" data-show-count="false">Follow @GreeneScientist</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/buviar" class="twitter-follow-button" data-show-count="false">Follow @buviar</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 {:.center}
