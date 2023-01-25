@@ -57,8 +57,8 @@ The lab has several headsets, a workstation, VR-capable laptop. Also there are m
 {%
   include feature.html
   image="images/vive-pro.jpg"
-  link="resources"
-  title="Our Resources"
+  link="tools"
+  title="Our Tools"
   flip=true
   text=text
 %}
