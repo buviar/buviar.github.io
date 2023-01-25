@@ -1,7 +1,7 @@
 ---
 title: BUVIAR Logo Design
 author: İpek Paksoy
-member: upton-goode
+member: paksoy-ipek
 ---
 
 Boğaziçi University Virtual Reality Laboratory Logo Contest was announced on social media in January 2022.
