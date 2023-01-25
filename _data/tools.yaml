@@ -10,7 +10,7 @@
 - title: Desktop
   group: more
   image: images/desktop.png
-  description: Is equipped with Nvidia Quadro RTX 5000.
+  description: We have a desktop computer for the work with HTC Vive. Is equipped with Nvidia Quadro RTX 5000.
   tags:
     - hardware
     - computer
@@ -18,7 +18,7 @@
 - title: HTC Vive
   group: more
   image: images/htcvive.jpg
-  description: We have a PCVR headset. HTC Vive Pro Eye is mostly used for experiments due to his spe.
+  description: We have a PCVR headset. HTC Vive Pro Eye is mostly used for experiments due to his specifics.
   tags:
     - hardware
     - headset
