@@ -14,11 +14,11 @@ baseurl: ""
 # site social media and other links
 links:
   email: buviar@boun.edu.tr
-  google-scholar: ETJoidYAAAAJ
+  #google-scholar: ETJoidYAAAAJ
   github: buviar
-  twitter: YourLabHandle
-  instagram: YourLabHandle
-  youtube: YourLabChannel
+  #twitter: YourLabHandle
+  #instagram: YourLabHandle
+  #youtube: YourLabChannel
 
 ### advanced settings
 
