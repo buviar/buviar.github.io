@@ -60,7 +60,7 @@ github:
   icon: fab fa-github
   text: GitHub
   tooltip: GitHub
-  link: https://github.com/$LINK   https://github.com/buviar
+  link: https://github.com/$LINK
 
 twitter:
   icon: fab fa-twitter
