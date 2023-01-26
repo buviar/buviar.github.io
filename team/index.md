@@ -16,7 +16,7 @@ We have a collaborative research team from diverse backgrounds. The team include
   data="members"
   component="portrait"
   filters="role: pi"
-%}
+%}  
 
 
 {%
