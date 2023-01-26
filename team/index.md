@@ -17,7 +17,7 @@ We have a collaborative research team from diverse backgrounds. The team include
   component="portrait"
   filters="role: pi"
 %}
-</br>
+
 
 {%
   include list.html
