@@ -36,5 +36,5 @@ BUVIAR is a rese
 
 {% include search-info.html %}
 
-{% include list.html data="project" component="citations" style="rich" %}
+{% include list.html data="project" component="citation" style="rich" %}
 
