@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-users"></i>Team
 
-We have a collaborative research team from diverse backgrounds. The team includes students at all levels,
+We have a collaborative research team from diverse backgrounds. The team includes students at all levels
 
 {% include section.html %}
 
