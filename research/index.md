@@ -26,7 +26,7 @@ BUVIAR is a research laboratory founded with the Multidisciplinary Project Suppo
 
 # <i class="fas fa-microscope"></i>Projects
 
-BUVIAR is a rese
+BUVIAR has various ongoing projects
 
 
 
@@ -38,3 +38,10 @@ BUVIAR is a rese
 
 {% include list.html data="project" component="citation" style="rich" %}
 
+
+
+## Projects Trial2
+
+{% include list.html component="card" data="project" filters="group: featured" %}
+
+{% include section.html %}
