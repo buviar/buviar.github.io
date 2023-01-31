@@ -32,11 +32,9 @@ BUVIAR has various ongoing projects
 
 {% include section.html %}
 
-{% include search-box.html %}
-
 {% include search-info.html %}
 
-{% include list.html data="project" component="citation" style="rich" %}
+{% include list.html data="project" component="card" style="rich" %}
 
 
 
