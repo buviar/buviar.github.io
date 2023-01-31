@@ -1,7 +1,7 @@
 ---
 name: Ipek Paksoy
 image: images/ipek-paksoy.png
-description: Research Asistant
+description: Laboratory Research Assistant
 role: graduate
 aliases:
   - I. Paksoy
