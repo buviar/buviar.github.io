@@ -13,4 +13,4 @@ links:
 ---
 
 Engin Ader is an Associate Professor at the Bogazici University Department of Mathematics and Science Education.
-[Personal Website](https://sced.boun.edu.tr/people/engin-ader) \
+[Personal Website](https://sced.boun.edu.tr/people/engin-ader) 
