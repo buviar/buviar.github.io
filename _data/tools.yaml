@@ -18,7 +18,7 @@
 - title: HTC Vive
   group: more
   image: images/htcvive.jpg
-  description: We have a PCVR headset. HTC Vive Pro Eye is mostly used for experiments due to his specifics.
+  description: We have a PCVR headset. HTC Vive Pro Eye is equipped with a precision eye tracking powered by Tobii ®.
   tags:
     - hardware
     - headset
@@ -31,10 +31,10 @@
     - hardware
     - headset
 
-- title: Leap Motion
+- title: Optical Hand Tracking
   group: more
   image: images/leapmotion.jpg
-  description: We are using Leap Motion Controller as an external hand tracking device for HTC Vive products.
+  description: We are using Leap Motion Controller as an external hand tracking device for interaction with digital content.
   tags:
     - others
 
