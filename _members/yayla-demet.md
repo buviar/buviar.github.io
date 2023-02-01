@@ -1,6 +1,6 @@
 ---
 name: Demet Yayla
-image: images/demet-yayla.jpeg
+image: images/demet-yayla.jpg
 description: Undergraduate Research Student
 role: undergrad-cmpe
 aliases:
