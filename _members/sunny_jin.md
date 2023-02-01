@@ -1,6 +1,6 @@
 ---
 name: Sunny Jin
-image: images/igor-lirussi.png
+image: images/sunny-jin.png
 description: Graduate Student
 role: graduate
 aliases:
