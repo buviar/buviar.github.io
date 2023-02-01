@@ -12,6 +12,6 @@ The lab has several ongoing projects.
 
 {% include section.html %}
 
-## Equipment
+## Projects
 
 {% include list.html component="card" data="projects"%}
