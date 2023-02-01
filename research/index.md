@@ -28,21 +28,7 @@ BUVIAR is a research laboratory founded with the Multidisciplinary Project Suppo
 
 BUVIAR has various ongoing projects
 
+{% include list.html component="card" data="projects" style="small" %}
 
 
-{% include section.html %}
-
-{% include search-info.html %}
-
-{% include list.html data="projects" component="card" style="rich" %}
-
-
-
-
-
-## Featured
-
-{% include list.html component="card" data="tools" filters="group: featured" %}
-
-{% include section.html %}
 
