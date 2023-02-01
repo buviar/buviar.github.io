@@ -1,7 +1,7 @@
 ---
 name: Igor Lirussi
 image: images/igor-lirussi.png
-description: Researcher
+description: Graduate Student
 role: graduate
 aliases:
   - I. Lirussi
