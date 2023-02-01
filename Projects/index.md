@@ -6,7 +6,7 @@ nav:
 ---
 
 # <i class="fas fa-microscope"></i>Projects
-The lab has several ongoing projects.
+We have ongoing and completed projects from diverse areas. Students from Bogazici University Cognitive Science MS program and Education Technology programs conduct experiments with participants. Students from the Computer Science Department work on creating various virtual environments for these purposes or machine learning applications.
 
 {% include search-info.html %}
 
