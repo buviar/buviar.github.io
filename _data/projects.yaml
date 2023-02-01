@@ -6,5 +6,5 @@
   group: more
   image: images/laptop.png
   description: We have an project
-   tags:
+  tags:
     - vr
