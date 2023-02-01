@@ -1,6 +1,6 @@
 ---
 title: BUVIAR Logo Design
-author: İpek Paksoy
+author: Ipek Paksoy
 member: paksoy-ipek
 ---
 
