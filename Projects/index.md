@@ -20,8 +20,6 @@ This project investigates how affordance perception may affect perceived interva
 {%
   include link.html
   link="research"
-  text="See our projects"
-  icon="fas fa-arrow-right"
   flip=true
 %}
 {:.center}
@@ -29,8 +27,7 @@ This project investigates how affordance perception may affect perceived interva
 
 {%
   include feature.html
-  image="images/buviar_projects.PNG"
-  link="research"
+  image="images/project-sunny.PNG"
   title="The effect of affordances on perceived action durations"
   text=text
 %}
@@ -40,9 +37,6 @@ This project investigates how affordance perception may affect perceived interva
 Research aims to examine how contextual cues affect audiovisual integration processes when determining saliency. Various 360 panoramic videos with ambisonic audio are used with HTC Vive VR headset and eye tracking data is analyzed for different types of videos. Variables include sound type (human, animal, nature, vehicle, music) and scene type (indoors, outdoors-natural, outdoors-human-made).
 {%
   include link.html
-  link="research"
-  text="See our projects"
-  icon="fas fa-arrow-right"
   flip=true
 %}
 {:.center}
@@ -50,7 +44,7 @@ Research aims to examine how contextual cues affect audiovisual integration proc
 
 {%
   include feature.html
-  image="images/buviar_projects.PNG"
+  image="images/project-halit.JPG"
   link="research"
   title="Audiovisual Saliency Cues in VR"
   text=text
