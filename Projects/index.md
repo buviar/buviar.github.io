@@ -31,7 +31,7 @@ This project investigates how affordance perception may affect perceived interva
   include feature.html
   image="images/buviar_projects.PNG"
   link="research"
-  title="Our Research"
+  title="The effect of affordances on perceived action durations"
   text=text
 %}
 
@@ -52,7 +52,7 @@ Research aims to examine how contextual cues affect audiovisual integration proc
   include feature.html
   image="images/buviar_projects.PNG"
   link="research"
-  title="Our Research"
+  title="Audiovisual Saliency Cues in VR"
   text=text
 %}
 
