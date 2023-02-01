@@ -25,3 +25,7 @@ programmer:
 mascot:
   icon: fas fa-dog
   text: Mascot
+
+researcher:
+  icon: fas fa-coder
+  text: Undergraduate Student
