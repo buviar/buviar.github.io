@@ -25,6 +25,29 @@ This project investigates how affordance perception may affect perceived interva
 {:.center}
 {% endcapture %}
 
+
+
+{% capture text %}
+Projects provide an artic sea environment where the player navigates a boat around. The surroundings are icebergs that melt, glaciers and some animated animals present in the exploratory environment. The player can interact with the virtual environment by driving the boat and picking up some objects floating. The project is designed to be used complementary with "This is Climate Change: Melting Ice" 360° VR documentary where Former Vice President Al Gore takes viewers on a transcendent exploration into the devastating consequences of our changing climate.
+{%
+  include link.html
+  flip=true
+%}
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/project-boat.jpg"
+  link="research"
+  title="Glacier Boat"
+  text=text
+%}
+
+
+
+
+
 {%
   include feature.html
   image="images/project-sunny.PNG"
