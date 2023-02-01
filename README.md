@@ -54,6 +54,6 @@ How's our documentation?
 
 [🧠 Background Knowledge](https://github.com/greenelab/lab-website-template/wiki/Background-Knowledge)
 
-[💡 Tips](https://github.com/greenelab/lab-website-template/wiki/Tips)
+[💡 Tips](https://github.com/greenelab/lab-website-template/wiki/Tips) 
 
 [❓ Support](https://github.com/greenelab/lab-website-template/wiki/Support)
