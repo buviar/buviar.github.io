@@ -4,7 +4,7 @@ tags:
   - news
   - virtual reality
   - BUVIAR Lab
-author: İpek Paksoy
+author: Ipek Paksoy
 member: paksoy-ipek
 ---
 **Virtual and Augmented Reality Period Begins at Boğaziçi University**\
