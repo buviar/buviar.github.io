@@ -62,6 +62,12 @@ We have a collaborative research team from diverse backgrounds. The team include
   filters="role: mascot"
 %}
 
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: undergrad"
+%}
 
 {:.center}
 
