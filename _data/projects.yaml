@@ -2,17 +2,20 @@
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
 
-  title: Project 1 
-  image: images/laptop.png
-  description: We have an project
-  tags:
-    - vr
-
-
- title: Cool Dataset
+- title: Cool Dataset
   subtitle: a subtitle
   group: featured
-  image: images/photo.jpg
+  image: images/laptop.png
+  link: https://github.com/
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  repo: greenelab/lab-website-template
+  tags:
+    - resource
+
+- title: Cool Package
+  subtitle: a subtitle
+  group: featured
+  image: images/laptop.png
   link: https://github.com/
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
