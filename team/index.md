@@ -63,3 +63,14 @@ If you are interested to join us, send your CV and cover letter to buviar@boun.e
 
 {% include section.html %}
 
+
+
+{% include section.html %}
+
+{%
+  include figure.html
+  image="images/team1.png"
+  description="our team"
+  width="100%"
+%}
+
