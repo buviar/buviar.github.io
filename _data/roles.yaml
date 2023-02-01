@@ -6,6 +6,10 @@ postdoc:
   icon: fas fa-glasses
   text: Postdoctoral Researcher
 
+visiting-researcher:
+  icon: fas fa-telescope
+  text: Visiting Researcher
+  
 graduate:
   icon: fas fa-graduation-cap
   text: Graduate Student
