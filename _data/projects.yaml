@@ -3,8 +3,18 @@
 
 
 - title: Project 1 
-  group: more
   image: images/laptop.png
   description: We have an project
   tags:
     - vr
+
+
+ title: Cool Dataset
+  subtitle: a subtitle
+  group: featured
+  image: images/photo.jpg
+  link: https://github.com/
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  repo: greenelab/lab-website-template
+  tags:
+    - resource
