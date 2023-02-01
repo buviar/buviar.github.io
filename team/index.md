@@ -66,7 +66,7 @@ We have a collaborative research team from diverse backgrounds. The team include
   include list.html
   data="members"
   component="portrait"
-  filters="role: undergrad"
+  filters="role: undergrad-cmpe"
 %}
 
 {:.center}
