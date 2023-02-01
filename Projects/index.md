@@ -44,7 +44,7 @@ Research aims to examine how contextual cues affect audiovisual integration proc
 
 {%
   include feature.html
-  image="images/project-halit.JPG"
+  image="images/project-halit.jpg"
   link="research"
   title="Audiovisual Saliency Cues in VR"
   text=text
