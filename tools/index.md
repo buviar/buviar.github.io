@@ -1,7 +1,7 @@
 ---
 title: Tools
 nav:
-  order: 2
+  order: 4
   tooltip: Hardware, software, and more
 ---
 
