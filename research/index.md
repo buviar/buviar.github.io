@@ -34,5 +34,5 @@ BUVIAR has various ongoing projects
 
 {% include search-info.html %}
 
-{% include list.html data="project" component="card" style="rich" %}
+{% include list.html data="projects" component="card" style="rich" %}
 
