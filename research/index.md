@@ -36,3 +36,13 @@ BUVIAR has various ongoing projects
 
 {% include list.html data="projects" component="card" style="rich" %}
 
+
+
+
+
+## Featured
+
+{% include list.html component="card" data="tools" filters="group: featured" %}
+
+{% include section.html %}
+
