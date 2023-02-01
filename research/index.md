@@ -36,10 +36,3 @@ BUVIAR has various ongoing projects
 
 {% include list.html data="project" component="card" style="rich" %}
 
-
-
-## Projects Trial2
-
-{% include list.html component="card" data="project" filters="group: featured" %}
-
-{% include section.html %}
