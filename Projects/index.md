@@ -26,7 +26,7 @@ The project investigates how affordance perception may affect perceived interval
 {%
   include feature.html
   image="images/project-sunny.PNG"
-  title="The effect of affordances on perceived action durations"
+  title="The Effect of Affordances on Perceived Action Durations"
   text=text
 %}
 
@@ -61,7 +61,7 @@ An immersive realistic forest environment where the player moves and explores ar
 {%
   include feature.html
   image="images/project-forest.PNG"
-  title="Forest experience: explore and recycle"
+  title="Forest Experience: Explore and Recycle"
   text=text
 %}
 
@@ -83,6 +83,25 @@ Research aims to examine how contextual cues affect audiovisual integration proc
 %}
 
 ## Completed Projects
+
+
+{% capture text %}
+Research aims to examine how contextual cues affect audiovisual integration processes when determining saliency. Various 360 panoramic videos with ambisonic audio are used with HTC Vive VR headset and eye tracking data is analyzed for different types of videos. Variables include sound type (human, animal, nature, vehicle, music) and scene type (indoors, outdoors-natural, outdoors-human-made).
+{%
+  include link.html
+  flip=true
+%}
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/project-tool.jpg"
+  link="research"
+  title=" Body Schema During Tool-Use via VR Technologies"
+  text=text
+%}
+
 {% capture text %}
 The project aims to introduce realistic physics simulation into virtual reality. The focus is on enhancing the interacting experience with fluids, clothes, soft and deformable objects. New mechanics will include: tearing, friction, adhesion, buoyancy, melting, surface tension, viscosity, plasticity, and wind. The objective is achieved through the use of particle simulation.    
 {%
@@ -94,7 +113,7 @@ The project aims to introduce realistic physics simulation into virtual reality.
 
 {%
   include feature.html
-  image="images/project-PhysicsVR1.PNG" 
+  image="images/PhysicsVR1.PNG" 
   title="Real-Time Fluid, Cloth, SoftBodies Physics Simulation in VR"
   text=text
 %}
