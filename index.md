@@ -20,7 +20,7 @@ Together with graduate and undergraduate students from different fields, ongoing
 # Highlights
 
 {% capture text %}
-Three studies were conducted in our lab in last year. These includes: The effect of distorted avatar capabilities on perceived affordances, Body schema during tool-use via VR technologies and Studying preservice teachers’ SRL via VR technologies .
+Various studies were conducted in our lab in last year. Such as: The effect of distorted avatar capabilities on perceived affordances, Body schema during tool-use via VR technologies and Studying preservice teachers’ SRL via VR technologies.
 
 {%
   include link.html
@@ -35,8 +35,8 @@ Three studies were conducted in our lab in last year. These includes: The effect
 {%
   include feature.html
   image="images/buviar_projects.PNG"
-  link="research"
-  title="Our Research"
+  link="Projects"
+  title="Our Projects"
   text=text
 %}
 
@@ -84,5 +84,4 @@ We have a collaborative research team from diverse backgrounds. The team include
   title="Our Team"
   text=text
 %}
-
 
