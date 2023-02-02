@@ -82,3 +82,19 @@ Research aims to examine how contextual cues affect audiovisual integration proc
   text=text
 %}
 
+## Completed Projects
+{% capture text %}
+The project aims to introduce realistic physics simulation into virtual reality. The focus is on enhancing the interacting experience with fluids, clothes, soft and deformable objects. New mechanics will include: tearing, friction, adhesion, buoyancy, melting, surface tension, viscosity, plasticity, and wind. The objective is achieved through the use of particle simulation.    
+{%
+  include link.html
+  flip=true
+%}
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/project-PhysicsVR1" 
+  title="The effect of affordances on perceived action durations"
+  text=text
+%}
