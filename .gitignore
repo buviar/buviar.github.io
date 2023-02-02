@@ -6,3 +6,7 @@ vendor
 debug.log
 __pycache__/
 .DS_STORE
+
+# Ignore IDE folders
+.idea
+.vscode
