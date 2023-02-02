@@ -50,6 +50,22 @@ This project provides an artic sea environment where the player navigates a boat
 %}
 
 {% capture text %}
+An immersive realisticforest environment where the player moves and explores around. The surroundings contain interesting points and animals. Users can manipulate trash objects and recycle the items into plastic, metal, glass, and paper containers. They receive voice-based positive and negative feedback according to these actions. The environment also includes an optional tutorial for first-time users to learn basic mechanics.
+{%
+  include link.html
+  flip=true
+%}
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/project-forest.PNG"
+  title="The effect of affordances on perceived action durations"
+  text=text
+%}
+
+{% capture text %}
 Research aims to examine how contextual cues affect audiovisual integration processes when determining saliency. Various 360 panoramic videos with ambisonic audio are used with HTC Vive VR headset and eye tracking data is analyzed for different types of videos. Variables include sound type (human, animal, nature, vehicle, music) and scene type (indoors, outdoors-natural, outdoors-human-made).
 {%
   include link.html
