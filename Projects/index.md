@@ -50,7 +50,7 @@ This project provides an artic sea environment where the player navigates a boat
 %}
 
 {% capture text %}
-An immersive realisticforest environment where the player moves and explores around. The surroundings contain interesting points and animals. Users can manipulate trash objects and recycle the items into plastic, metal, glass, and paper containers. They receive voice-based positive and negative feedback according to these actions. The environment also includes an optional tutorial for first-time users to learn basic mechanics.
+An immersive realistic forest environment where the player moves and explores around. The surroundings contain interesting points and animals. Users can manipulate trash objects and recycle the items into plastic, metal, glass, and paper containers. They receive voice-based positive and negative feedback according to these actions. The environment also includes an optional tutorial for first-time users to learn basic mechanics.
 {%
   include link.html
   flip=true
@@ -61,7 +61,7 @@ An immersive realisticforest environment where the player moves and explores aro
 {%
   include feature.html
   image="images/project-forest.PNG"
-  title="The effect of affordances on perceived action durations"
+  title="Forest experience: explore and recycle"
   text=text
 %}
 
@@ -95,6 +95,6 @@ The project aims to introduce realistic physics simulation into virtual reality.
 {%
   include feature.html
   image="images/project-PhysicsVR1" 
-  title="The effect of affordances on perceived action durations"
+  title="Real-Time Fluid, Cloth, SoftBodies Physics Simulation in VR"
   text=text
 %}
