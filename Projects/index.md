@@ -15,7 +15,7 @@ We have ongoing and completed projects from diverse areas. Students from Bogazic
 ## Ongoing Projects
 
 {% capture text %}
-This project investigates how affordance perception may affect perceived interval durations during motor action, contributing to the nascent research linking affordances to the interval timing.In this study, we utilize two avatar hand types: normal and pill-shaped (fingerless). We are investigating whether the perceived time passed during motor action (reaching for a pan) differs depending on the hand type (normal, allowing for pan-handle grasping affordance; capsule, no grasping ability afforded) in our participants. LeapMotion hand tracker used with HTC Vive headset. 
+This project provides an artic sea environment where the player navigates a boat around. The surroundings are icebergs that melt, glaciers and some animated animals present in the exploratory environment. The player can interact with the virtual environment by driving the boat and picking up some objects floating. The project is designed to be used complementary with "This is Climate Change: Melting Ice" 360° VR documentary where Former Vice President Al Gore takes viewers on a transcendent exploration into the devastating consequences of our changing climate.
 
 {%
   include link.html
@@ -28,13 +28,10 @@ This project investigates how affordance perception may affect perceived interva
 
 
 {% capture text %}
-This project provides an artic sea environment where the player navigates a boat around. The surroundings are icebergs that melt, glaciers and some animated animals present in the exploratory environment. The player can interact with the virtual environment by driving the boat and picking up some objects floating. The project is designed to be used complementary with "This is Climate Change: Melting Ice" 360° VR documentary where Former Vice President Al Gore takes viewers on a transcendent exploration into the devastating consequences of our changing climate.
+The project investigates how affordance perception may affect perceived interval durations during motor action, contributing to the nascent research linking affordances to the interval timing.In this study, we utilize two avatar hand types: normal and pill-shaped (fingerless). We are investigating whether the perceived time passed during motor action (reaching for a pan) differs depending on the hand type (normal, allowing for pan-handle grasping affordance; capsule, no grasping ability afforded) in our participants. LeapMotion hand tracker used with HTC Vive headset.   
 {%
   include link.html
   flip=true
-  [Igor Lirussi](http://buviar.boun.edu.tr/members/lirussi-igor.html/) \
-[Project's Github Page](https://github.com/igor-lirussi/VR-Boat/)
-
   
 %}
 {:.center}
