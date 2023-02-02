@@ -96,7 +96,7 @@ Research aims to examine how contextual cues affect audiovisual integration proc
 
 
 {% capture text %}
-Research aims to examine how contextual cues affect audiovisual integration processes when determining saliency. Various 360 panoramic videos with ambisonic audio are used with HTC Vive VR headset and eye tracking data is analyzed for different types of videos. Variables include sound type (human, animal, nature, vehicle, music) and scene type (indoors, outdoors-natural, outdoors-human-made).
+This study focuses on the comparison of how tool-use experiments affect body representation in a virtual environment versus a physical environment. It aims to evaluate the tool use paradigm in these two different experimental environments and to compare the degree of adaptation to tool use of people in these two environments by using forearm bisection measurement.
 {%
   include link.html
   flip=true
