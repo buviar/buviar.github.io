@@ -24,7 +24,7 @@ Various studies were conducted in our lab in last year. Such as: The effect of d
 
 {%
   include link.html
-  link="research"
+  link="Projects"
   text="See our projects"
   icon="fas fa-arrow-right"
   flip=true
