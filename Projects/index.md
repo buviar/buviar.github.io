@@ -123,7 +123,7 @@ The project aims to introduce realistic physics simulation into virtual reality.
 
 {%
   include feature.html
-  image="images/PhysicsVR1.PNG" 
+  image="images/project-physics.png" 
   title="Real-Time Fluid, Cloth, SoftBodies Physics Simulation in VR"
   text=text
 %}
