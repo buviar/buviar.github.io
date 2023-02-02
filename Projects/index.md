@@ -82,6 +82,16 @@ Research aims to examine how contextual cues affect audiovisual integration proc
   text=text
 %}
 
+{% capture text %} The project is built upon a scientific article. It aims to provide data to the ML algorithm in that article for which normally raw data is provided to train. The task is basically to build a tower with certain height by putting objects on top of eachother given in the environment. The project uses HTC Vive Pro with the integration of Ultraleap hand tracker. The environment has friction, collusion and gravity as in natural settings. {% include link.html flip=true %} {:.center} {% endcapture %}
+
+{% 
+   include feature.html 
+   image="images/project-demet.jpg" 
+   link="research" 
+   title="Abstract Judgement and Lifelong Learning with Symbol and Rule Discovery" 
+   text=text 
+%}
+
 ## Completed Projects
 
 
