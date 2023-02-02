@@ -92,6 +92,25 @@ Research aims to examine how contextual cues affect audiovisual integration proc
    text=text 
 %}
 
+
+{% capture text %}
+This study aimed to explore preservice teachers’ self-regulated learning as they engaged in immersive VR applications and to study the links between teachers’ use of SRL in their own learning as measured by multimodal data. This particular study has been conducted as part of an international study titled “STEM Teachers’ Capacity to Teach Self-Regulated Learning:  Effectiveness of Extended Reality” (https://earli.org/efg) and certain decisions regarding data collection were taken together with the international collaborators.
+{%
+  include link.html
+  flip=true
+%}
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/project-pandemic.jpg"
+  link="research"
+  title="Studying Preservice Teachers’ SRL via VR Technologies"
+  text=text
+%}
+
+
 ## Completed Projects
 
 
