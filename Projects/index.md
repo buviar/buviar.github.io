@@ -86,7 +86,7 @@ Research aims to examine how contextual cues affect audiovisual integration proc
 
 {% 
    include feature.html 
-   image="images/project-demet.jpg" 
+   image="images/capture_31463165_img.png" 
    link="research" 
    title="Abstract Judgement and Lifelong Learning with Symbol and Rule Discovery" 
    text=text 
